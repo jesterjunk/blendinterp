@@ -1,0 +1,2 @@
+#define IDI_ICON 101
+#define IDC_COMBOBOX_TEXT 1000
