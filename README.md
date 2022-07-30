@@ -13,11 +13,11 @@
 
 #### NOTES
 
-WINDOWS 10, 11 program. DOES NOT WORK ON WIN7 without a lot of glitches !! You have been warned.
+‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ WINDOWS 10, 11 program. DOES NOT WORK ON WIN7 without a lot of glitches !! You have been warned.
 
-This is a GDI32 Win32 Application.
+‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ This is a GDI32 Win32 Application.
 
-This is a fun little project to find the hex / decimal / percentage values between two color values.
+‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ This is a fun little project to find the hex / decimal / percentage values between two color values.
 
 <br>
 
