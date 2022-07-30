@@ -19,6 +19,8 @@ This is a GDI32 Win32 Application.
 
 This is a fun little project to find the hex / decimal / percentage values between two color values.
 
+<br>
+
 <div align="middle">
 
 ![progress](image.png "progress")
